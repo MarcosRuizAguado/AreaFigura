@@ -34,6 +34,9 @@ public class POLIMORFISMO_AreaFigura {
        figref = k;
        System.out.println("Area igual a: " +figref.area());
        
+       
+        System.out.println("Veamos los cambios!");
+       
     }
     
 }
